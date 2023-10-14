@@ -1,0 +1,8 @@
+Log_Id,Trigger_Name,Action,TableName,Record_Id,Timestamp
+1,monthly_listener,UPDATE,Monthly_Listener,45,"2023-10-11 01:48:04"
+2,monthly_listener,UPDATE,Monthly_Listener,45,"2023-10-11 02:53:32"
+3,monthly_listener,UPDATE,Monthly_Listener,45,"2023-10-11 03:04:07"
+4,monthly_listener,UPDATE,Monthly_Listener,45,"2023-10-11 03:17:29"
+5,monthly_listener,UPDATE,Monthly_Listener,45,"2023-10-12 17:44:35"
+6,trigger_albums_before_delete,DELETE,Albums,37,"2023-10-12 18:22:09"
+7,monthly_listener,UPDATE,Monthly_Listener,45,"2023-10-13 23:24:30"
